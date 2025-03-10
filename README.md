@@ -11,9 +11,9 @@
 
 <h2 align="center">About me</h2>
 
-1. The only programming language I know is the c++
-2. I have some basic python understanding because I learned it once
-3. All my code that can be used as an utility i put into my ADUL(Alivka's Different Utilities Library) library
-4. I am currently working on the project called AGE(Alivka's Graphics Engine) which is a purely featured game engine for doom/wolfeingstein 3d graphics style
-5. I use linux as my main workspace os not because i really understand how it works but because for me it's way more convenient for programming
+1. The only programming language I know for now is C++
+2. I have some basic python understanding btw because I learned it once
+3. All my reusable C++ code I put into my ADUL library
+4. I am currently working on the project called AGE(Alivka's Graphics Engine) which is a purely featured game engine for doom/wolfeingstein3d style graphics
+5. I use linux as my main workspace
 6. I use OpenSuse Tumbleweed linux distribution 
