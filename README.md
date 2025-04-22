@@ -14,4 +14,4 @@
 1. The only programming language I know for now is C++
 2. I have some basic python understanding btw because I learned it once
 3. All my reusable C++ code I put into my ADUL library
-4. I use OpenSuse Tumbleweed linux distribution 
+4. I use fedora linux distribution 
