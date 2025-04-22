@@ -14,5 +14,4 @@
 1. The only programming language I know for now is C++
 2. I have some basic python understanding btw because I learned it once
 3. All my reusable C++ code I put into my ADUL library
-4. I am currently working on the project called AGE(Alivka's Graphics Engine) which is a purely featured game engine for doom/wolfeingstein3d style graphics
-5. I use OpenSuse Tumbleweed linux distribution 
+4. I use OpenSuse Tumbleweed linux distribution 
