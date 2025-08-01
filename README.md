@@ -12,6 +12,6 @@
 <h2 align="center">About me</h2>
 
 1. I know C/C++
-2. I have some basic python understanding btw because I learned it once
-3. All my reusable C++ code I put into my ADUL library
+2. I am kinda involved into robotics and electronics 
+3. I have some basic python understanding btw because I learned it once
 4. I use endeveour os linux
