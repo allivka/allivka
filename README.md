@@ -11,7 +11,7 @@
 
 <h2 align="center">About me</h2>
 
-1. I know C/C++
+1. I know C/C++ and currently learning golang 
 2. I am kinda involved into robotics and electronics 
 3. I have some basic python understanding btw because I learned it once
 4. I use endeveour os linux
