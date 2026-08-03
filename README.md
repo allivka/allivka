@@ -10,7 +10,3 @@
 <img src="https://streak-stats.demolab.com?user=allivka&theme=nightowl&hide_border=true" alt="allivka's GitHub Stats" />
 
 <h2 align="center">About me</h2>
-
-1. I know C/C++ and currently learning golang and python
-2. I am kinda involved into robotics and electronics 
-3. I use endeveour os linux
